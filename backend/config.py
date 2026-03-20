@@ -9,7 +9,7 @@ class Settings(BaseSettings):
     jwt_expiry_days: int = 7
 
     admin_username: str = "admin"
-    admin_password: str = "devtrails2026"
+    admin_password: str = "change-in-production"
 
     dev_mode: bool = True
     simulate_outage: bool = False
