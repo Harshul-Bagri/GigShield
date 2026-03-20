@@ -509,7 +509,7 @@ aegisync/
 ---
 
 ## Team AegisAI
-Built with React/Next.js · FastAPI · Python ML
+Built with React/Next.js · FastAPI · Python ML · Anthropic Claude API
 - Anushka Banerjee [@anushka369](https://github.com/anushka369/)
 - Harshul Bagri [@Harshul-Bagri](https://github.com/Harshul-Bagri/)
 - Rajyalaxmi Mishra [@Rajyalaxmi300](https://github.com/Rajyalaxmi300/)
