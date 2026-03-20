@@ -77,21 +77,21 @@ When external disruptions hit — a cyclone in Chennai, a red-alert AQI day in D
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
 │  [ONBOARDING]                                                       │
-│  Worker registers → Links Zomato/Swiggy ID → Verifies UPI          │
-│  → AI Risk Engine scores their zone → Weekly premium quoted        │
-│  → Worker selects coverage tier → Policy activated                 │
+│  Worker registers → Links Zomato/Swiggy ID → Verifies UPI           │
+│  → AI Risk Engine scores their zone → Weekly premium quoted         │
+│  → Worker selects coverage tier → Policy activated                  │
 │                                                                     │
 │  [MONITORING — 24/7 BACKGROUND]                                     │
-│  Weather APIs → AQI APIs → Govt Alert Feeds → Social NLP          │
-│  → Platform uptime signals → Zone-level aggregation               │
+│  Weather APIs → AQI APIs → Govt Alert Feeds → Social NLP            │
+│  → Platform uptime signals → Zone-level aggregation                 │
 │                                                                     │
 │  [TRIGGER DETECTED]                                                 │
-│  Threshold crossed → Fraud engine validates → Claim auto-created   │
-│  → Worker notified via SMS + App → Payout initiated via UPI        │
+│  Threshold crossed → Fraud engine validates → Claim auto-created    │
+│  → Worker notified via SMS + App → Payout initiated via UPI         │
 │                                                                     │
 │  [DASHBOARD]                                                        │
 │  Worker: Weekly coverage status, earnings protected, claim history  │
-│  Admin: Live disruption map, loss ratios, fraud flags, payouts     │
+│  Admin: Live disruption map, loss ratios, fraud flags, payouts      │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
